@@ -1,0 +1,27 @@
+* {
+	font-family: Verdana;
+	background-color: #cc6600;
+}
+
+.hit {
+	text-align: center;
+	color: 	#4d0000;
+	font-size:35px; 
+
+	}
+.dol {
+	color: #001a00;
+	font-size: 20px;
+
+}
+h3 {
+
+	color:#001a00; 
+}
+#beef{
+
+}
+ol{
+
+	display:inline-block;
+}

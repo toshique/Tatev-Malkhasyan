@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>debil</title>
-</head>
-<body>
+
 <script>
 const stars=function(n){
 			if(n <= 0){
@@ -39,5 +34,3 @@ const stars=function(n){
 
 		run1(5);
 </script>
-</body>
-</html>
